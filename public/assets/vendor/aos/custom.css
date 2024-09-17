@@ -1,0 +1,21 @@
+.label-verde
+{
+    font-weight: 600;
+    font-size:12px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color:rgba(18, 35, 167, 0.942);
+}
+
+.input-fundo
+{
+    background-color:rgba(144, 151, 207, 0.337);
+}
+
+
+.nome-listagem
+{
+    font-weight: 600;
+    font-size:14px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color:rgba(55, 56, 61, 0.942);
+}
