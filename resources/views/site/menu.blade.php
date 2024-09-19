@@ -7,7 +7,6 @@
         <ul>
             <li><a href="{{ route('listar.usuarios') }}">Listar usuários</a></li>
           <li><a href="{{ route('criar.usuario') }}">Criar usuário</a></li>
-          <li><a href="#">Alterar nivel acesso</a></li>
         </ul>
       </li>
       @endcan
@@ -54,6 +53,7 @@
         </ul>
       </li>
       <li><a href="#contact"><i class="bi bi-envelope navicon"></i> Contato</a></li>
+      <li><a href="{{ route('alterar.senhaself') }}"><i class="bi bi-key navicon"></i> Alterar minha senha</a></li>
 
 <li>
     <form method="POST" action="{{ route('logout') }}">
